@@ -4,9 +4,8 @@
 
 The file format needs to look like this:
 
-`1	866642	921679	2	normal	eg.bam`
-
-`1	921679	982372	2	normal	eg.bam`
+    1	866642	921679	2	normal	eg.bam
+    1	921679	982372	2	normal	eg.bam
 
 This  is a tab separated .txt file with 6 columns without header. The information is as follows:
 
@@ -34,6 +33,9 @@ As the samplenames in the plot are generated from the filename, the filenames ne
 
 
 ## R packages
-reshape2: Wickham, Hadley (2007): Reshaping Data with the reshape Package. In J. Stat. Soft. 21 (12).
-ggplot2: H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016. 
-gtools: Gregory R. Warnes, Ben Bolker, and Thomas Lumley (2018): Various R Programming Tools.
+
+*reshape2:* Wickham, Hadley (2007): Reshaping Data with the reshape Package. In J. Stat. Soft. 21 (12).
+
+*ggplot2:* H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016. 
+
+*gtools:* Gregory R. Warnes, Ben Bolker, and Thomas Lumley (2018): Various R Programming Tools.
