@@ -34,8 +34,8 @@ As the samplenames in the plot are generated from the filename, the filenames ne
 
 ## R packages
 
-*reshape2:* Wickham, Hadley (2007): Reshaping Data with the reshape Package. In J. Stat. Soft. 21 (12).
+*reshape2 (version 1.4.3):* Wickham, Hadley (2007): Reshaping Data with the reshape Package. In J. Stat. Soft. 21 (12).
 
-*ggplot2:* H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016. 
+*ggplot2 (version 2.2.1):* H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016. 
 
-*gtools:* Gregory R. Warnes, Ben Bolker, and Thomas Lumley (2018): Various R Programming Tools.
+*gtools (version 3.5.0):* Gregory R. Warnes, Ben Bolker, and Thomas Lumley (2018): Various R Programming Tools.
